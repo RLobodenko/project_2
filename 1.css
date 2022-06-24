@@ -1,0 +1,377 @@
+
+body {
+    
+    background: url(back.png) no-repeat;
+
+
+}
+.vector {
+    
+    
+    padding-left: 175px;
+    padding-top: 43px;
+}
+.catalog {
+
+margin: 100px;
+}
+.examples {
+
+margin: 100px;
+}
+.otzyvy {
+
+margin: 100px;
+}
+.contacts {
+
+margin: 100px;
+}
+.line {
+
+position: absolute;
+width: 1570px;
+height: 0px;
+left: 175px;
+top: 102px;
+
+opacity: 0.07;
+border: 1px solid #1C1C1C;
+}
+
+
+.krovlya {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 20px;
+/* or 167% */
+
+text-align: center;
+padding-top: 28px;
+padding-left: 175px;
+position: absolute;
+color: #1C1C1C;
+
+}
+
+.logo {
+
+position: absolute;
+width: 188px;
+height: 78px;
+left: 865px;
+top: 129px;
+}
+
+.price {
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 0.04em;
+padding-top: 64px;
+padding-left: 552px;
+position: absolute;
+color: #1C1C1C;
+}
+
+.pdf {
+padding-top: 53px;
+padding-left: 491px;
+position: absolute;
+}
+
+.otvet {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 0.02em;
+padding-top: 37px;
+padding-left: 1244px;
+position: absolute;
+color: #1C1C1C;
+
+}
+.viber {
+
+padding-top: 67px;
+padding-left: 1220px;
+position: absolute;
+}
+
+.whatsapp {
+padding-top: 67px;
+padding-left: 1278px;
+position: absolute;
+}
+
+.telegram {
+padding-top: 67px;
+padding-left: 1336px;
+position: absolute;
+}
+
+.time {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #1C1C1C;
+padding-top: 36px;
+padding-left: 1521px;
+position: absolute;
+}
+
+.telephone {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #1C1C1C;
+padding-top: 59px;
+padding-left: 1502px;
+position: absolute;
+}
+
+.callme {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 0.04em;
+
+color: #12C868;
+padding-top: 92px;
+padding-left: 1572px;
+position: absolute;
+}
+
+.garancy {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1C1C1C;
+padding-top: 63px;
+padding-left: 41px;
+position: absolute;
+}
+
+.zamer {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+padding-top: 177px;
+padding-left: 39px;
+position: absolute;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1C1C1C;
+
+
+}
+
+.smety {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+padding-top: 313px;
+padding-left: 45px;
+position: absolute;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1C1C1C;
+
+}
+.oplata {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1C1C1C;
+
+padding-top: 405px;
+padding-left: 30px;
+position: absolute;
+}
+
+.kryshi {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+display: flex;
+align-items: center;
+text-align: center;
+padding-top: 497px;
+padding-left: 32px;
+position: absolute;
+color: #1C1C1C;
+
+}
+
+.rectangle {
+
+position: absolute;
+width: 225px;
+height: 626.5px;
+left: 175px;
+top: 238px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 75px rgba(0, 0, 0, 0.03);
+border-radius: 20px;
+}
+.menu {
+padding-top: 134px;
+padding-left: 27px;
+position: absolute;
+}
+
+.menu1 {
+padding-top: 275px;
+padding-left: 27px;
+position: absolute;
+}
+
+.menu2 {
+padding-top: 369px;
+padding-left: 27px;
+position: absolute;
+}
+
+.menu3 {
+
+padding-top: 462px;
+padding-left: 27px;
+position: absolute;
+}
+
+.title {
+
+padding-top: 232px;
+padding-left: 471px;
+position: absolute;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 55px;
+line-height: 85px;
+/* or 155% */
+
+text-align: center;
+
+color: #1C1C1C;
+}
+
+.kluch {
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+text-align: center;
+
+color: #1C1C1C;
+
+padding-top: 506px;
+padding-left: 545px;
+position: absolute;
+}
+
+.otvetit {
+padding-top: 728px;
+padding-left: 513px;
+position: absolute;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #1C1C1C;
+}
+
+.button1 {
+background: #12C868;
+box-shadow: inset 0px 0px 22px rgba(255, 255, 255, 0.25);
+border-radius: 500px;
+
+margin-top: 590px;
+margin-left: 471px;
+position: absolute;
+}
+
+.button2 {
+background: #F38120;
+box-shadow: inset 0px 0px 22px rgba(255, 255, 255, 0.25);
+border-radius: 500px;
+margin-top: 590px;
+margin-left: 864px;
+position: absolute;
+}
+
+.vector1 {
+position: absolute;
+left: 24.53%;
+right: 74.94%;
+top: 76.85%;
+bottom: 22.21%;
+
+background: #F38120;
+opacity: 0.25;
+
+}
